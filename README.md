@@ -1,4 +1,3 @@
-# DSWaveView
 
 [![CI Status](https://img.shields.io/travis/lxx/DSWaveView.svg?style=flat)](https://travis-ci.org/lxx/DSWaveView)
 [![Version](https://img.shields.io/cocoapods/v/DSWaveView.svg?style=flat)](https://cocoapods.org/pods/DSWaveView)
@@ -26,4 +25,4 @@ lxx, xinxincoder@163.com
 
 ## License
 
-DSWaveView is available under the MIT license. See the LICENSE file for more info.
+
