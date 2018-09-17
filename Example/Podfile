@@ -1,0 +1,11 @@
+use_frameworks!
+platform :ios, '9.3'
+target 'DSWaveView_Example' do
+  pod 'DSWaveView', :path => '../'
+
+  target 'DSWaveView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

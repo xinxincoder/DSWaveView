@@ -1,0 +1,16 @@
+PODS:
+  - DSWaveView (1.0.0)
+
+DEPENDENCIES:
+  - DSWaveView (from `../`)
+
+EXTERNAL SOURCES:
+  DSWaveView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSWaveView: d442ff8bd14309e92184eea6d25f5ab2e349255a
+
+PODFILE CHECKSUM: 12e974ca623eef6c6118c0fb507a8a6ccf0a2ee6
+
+COCOAPODS: 1.5.3
